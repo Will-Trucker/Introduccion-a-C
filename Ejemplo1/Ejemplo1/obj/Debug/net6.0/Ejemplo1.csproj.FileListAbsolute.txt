@@ -1,0 +1,15 @@
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.AssemblyInfo.cs
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\bin\Debug\net6.0\Ejemplo1.exe
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\bin\Debug\net6.0\Ejemplo1.deps.json
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\bin\Debug\net6.0\Ejemplo1.runtimeconfig.json
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\bin\Debug\net6.0\Ejemplo1.dll
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\bin\Debug\net6.0\Ejemplo1.pdb
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.dll
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\refint\Ejemplo1.dll
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.pdb
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\Ejemplo1.genruntimeconfig.cache
+C:\Users\LAB2.01\Documents\GitHub\Introduccion-a-C\Ejemplo1\Ejemplo1\obj\Debug\net6.0\ref\Ejemplo1.dll
